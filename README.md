@@ -1,7 +1,7 @@
 # Hand-Signature-Verification-Forged-or-Real
 Authenticate signatures with precision using HOG for feature extraction and RCNN for classification. Ideal for finance, legal, and security applications. Explore the synergy of computer vision and deep learning for robust document verification.
 # Steps to execute the project
-1. Open the Colab File which has the extension .ipyynb.
+1. Open the Colab File which has the extension .ipynb.
 2. Execute the first cell which is mounting the drive folder.
 3. Then run the second cell.
 4. Install the depedencies "!pip install -r requirements.txt"
